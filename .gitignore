@@ -1,1 +1,8 @@
 .idea
+.DS_Store
+.idea/.name
+.idea/Sangar.xml
+.idea/encodingxml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
